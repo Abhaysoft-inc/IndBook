@@ -1,0 +1,107 @@
+.left-section{
+ /* border: grey solid 1px; */
+ float: left;
+ width: 25%;
+ margin: 2px;
+}
+.main-section{
+    /* //border: grey solid 1px; */
+    width: 48%;
+    margin: 2px;
+}
+.right-section{
+    /* border: grey solid 1px; */
+    width: 25%;
+    margin: 2px;
+}
+.column{
+    float: left;
+}
+.left{
+    width: 25%;
+    float: left;
+    border: solid grey 2px;
+}
+.main{
+    width: 50%;
+    border: solid grey 2px;
+}
+
+#postinp{
+    
+}
+.post-container{
+    margin: 8px;
+    padding: 5px;
+    border: white solid 2px;
+    border-radius: 5px;
+    padding-left: 5px;
+    background-color: white;
+}
+.post-container form{
+    padding-left: 10px;
+    
+    
+}
+.news-feed{
+    margin: 8px;
+    padding: 5px;
+    border: white solid 2px;
+    border-radius: 5px;
+    padding-left: 5px;
+    background: white;
+
+}
+.pages{
+    margin: 8px;
+    padding: 5px;
+    background: white;
+    border-radius: 5px;
+    padding-left: 5px;
+    min-height: 200px;
+
+}
+.groups{
+    margin: 8px;
+    padding: 5px;
+    border-radius: 5px;
+    padding-left: 5px;
+    min-height: 200px;
+    background: white;
+
+}
+.stories{
+    margin: 8px;
+    padding: 5px;
+    border: white solid 2px;
+    border-radius: 5px;
+    padding-left: 5px;
+    background: white;
+}
+.friend-request{
+    margin: 8px;
+    padding: 5px;
+    border: white solid 2px;
+    border-radius: 5px;
+    padding-left: 5px;
+    background: white;
+}
+body{
+    background: gray;
+}
+.group-items{
+    padding-left:20px;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.right-likes{
+    float: right;
+}
+.footer {
+    background-color: #f5f5f5;
+  }
+
